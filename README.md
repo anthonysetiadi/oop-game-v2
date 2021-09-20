@@ -3,7 +3,7 @@ This project was created by @anthonysetiadi for the purposes of completing the T
 
 Unit 4 Project
 
-This game is also hosted on [GitHub Pages](https://docs.github.com/en/pages) and can be played here [https://anthonysetiadi.github.io/oop-game-v2/]. 
+This game is also hosted on [GitHub Pages](https://docs.github.com/en/pages) and can be played here https://anthonysetiadi.github.io/oop-game-v2/. 
 
 ## Objectives
 The main objective of this game is to guess the hidden phrase.
