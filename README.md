@@ -1,5 +1,5 @@
 # Phrase Hunter Game
-This project was created by @anthonysetiadi for the purposes of completing the Team Treehouse: Full Stack Javascript Course.
+This project was created by [@anthonysetiadi](https://github.com/anthonysetiadi) for the purposes of completing the Team Treehouse: Full Stack Javascript Course.
 
 Unit 4 Project
 
