@@ -4,6 +4,7 @@ This project was created by [@anthonysetiadi](https://github.com/anthonysetiadi)
 Unit 4 Project
 
 This game is also hosted on [GitHub Pages](https://docs.github.com/en/pages) and can be played here https://anthonysetiadi.github.io/oop-game-v2/. 
+Note. The site is not optimised for mobile devices.
 
 ## Objectives
 The main objective of this game is to guess the hidden phrase.
