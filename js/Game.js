@@ -105,7 +105,6 @@ won */
 
 /**
  * Resets the game to original display
- * 
  */
     resetGame(){
         document.querySelector('#phrase ul').innerHTML = "";

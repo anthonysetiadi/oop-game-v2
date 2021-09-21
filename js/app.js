@@ -13,6 +13,9 @@ document.getElementById("btn__reset")
         game.startGame();
 });
 
+/**
+ * Listen for keyup on the 'Enter' key on physical keyboard to Start Game
+ */
 document.addEventListener("keyup", (e) => {
         if (e.key === "Enter" && overlay.style.display === "") {
             e.preventDefault();
@@ -32,8 +35,6 @@ document.getElementById("qwerty")
 /**
  * Listen for keyboard keyup events for physical keyboard functionality
  */
-
-
 document.addEventListener("keyup", e => {
     const keys = document.querySelectorAll('.key');
     const keyboardInput = e.key;
