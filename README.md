@@ -1,11 +1,13 @@
 # Phrase Hunter Game
-This project was created by [@anthonysetiadi](https://github.com/anthonysetiadi) for the purposes of completing the Team Treehouse: Full Stack Javascript Course.
+A simple game where the player needs to guess the correct "Phrase" before the player's 5 Lives run out.
 
-Unit 4 Project
 
-This game is also hosted on [GitHub Pages](https://docs.github.com/en/pages) and can be played here https://anthonysetiadi.github.io/oop-game-v2/. 
-Note. The site is not optimised for mobile devices.
+## Description
+Unit 4 Project for the purposes of completing the Team Treehouse Techdegree Full Stack Javascript Course.
 
+This game was developed using Java Script object-oriented programming principles.
+
+# Gameplay
 ## Objectives
 The main objective of this game is to guess the hidden phrase.
 
@@ -24,3 +26,9 @@ Styling changes include:
 1. Main Font Family changed to 'Courier'
 2. H2 (Phrase Hunter) heading changed to 'Impact' and 'jackInTheBox' animation added
 3. When a letter is correctly guessed, the show background color was changed to green (#94d54a) instead of the default blue
+
+
+## Live Demo
+[Phrase Hunter Game](https://anthonysetiadi.github.io/oop-game-v2/)
+
+Note: Site is not optimised for mobile devices.
